@@ -1,0 +1,5 @@
+D:\school_management_system\obj\Debug\school_management_system.csproj.AssemblyReference.cache
+D:\school_management_system\obj\Debug\school_management_system.Form1.resources
+D:\school_management_system\obj\Debug\school_management_system.Properties.Resources.resources
+D:\school_management_system\obj\Debug\school_management_system.csproj.GenerateResource.cache
+D:\school_management_system\obj\Debug\school_management_system.csproj.CoreCompileInputs.cache
